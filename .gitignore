@@ -55,3 +55,7 @@ _*/
 
 # data
 *.xlsx
+
+.jupyter
+.config
+.local
